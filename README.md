@@ -9,7 +9,7 @@
 
 
 
-#### Evaluation criteria 
+#### Evaluation criteria:
 - Working code, only needing .env file addition for evaluation;
 - Code clarity and readability;
 - Quality of generated ad-descriptions.
