@@ -16,13 +16,13 @@ The content strategy and type may differ for certain people based on characteris
 
 In general, Instagram has different types of content:
 
-1. Photos: Single or multiple images capture moments, events, or artistic compositions;
-2. Videos: Short or long-form videos, from Stories to IGTV, entertaining or informative;
-3. Stories: Temporary posts that last 24 hours, often used for more casual or spontaneous sharing;
-4. IGTV: Longer videos hosted on a separate section of the app for more extended content;
-5. Reels: Short, entertaining videos set to music, similar to TikTok;
-6. Live Streams: Real-time broadcasts allowing interaction with followers;
-7. Captions and Comments: Text-based content accompanying posts, fostering engagement and conversation.
+1. <bold>Photos</bold>: Single or multiple images capture moments, events, or artistic compositions;
+2. <bold>Videos</bold>: Short or long-form videos, from Stories to IGTV, entertaining or informative;
+3. <bold>Stories</bold>: Temporary posts that last 24 hours, often used for more casual or spontaneous sharing;
+4. <bold>IGTV</bold>: Longer videos hosted on a separate section of the app for more extended content;
+5. <bold>Reels</bold>: Short, entertaining videos set to music, similar to TikTok;
+6. <bold>Live Streams</bold>: Real-time broadcasts allowing interaction with followers;
+7. <bold>Captions and Comments</bold>: Text-based content accompanying posts, fostering engagement and conversation.
 
 When making a video like the storytelling of the house about the features of the layout, how the house was built in general, what materials were used, the reasons for the sale, and so on.
 
@@ -40,12 +40,12 @@ The Caption usually should not be large, if the whole essence is superimposed in
 ##### What operational design techniques can improve quality?
 ##### How to ensure that the model does not invent additional functions?
 
-1. Clear and specific requirements and tips. It is advisable to describe what follows from the model without grammatical errors. Include relevant details, context, or specific instructions for operating the model. For example, do not use different emotions separately, clearly and indicate the parameters of the house that should be in the text, etc.;
-2. The structure and format of the generated text, which may indicate the order of verification information;
-3. The emotional state of the text, which can be indicated, should be pragmatic, and cheerful;
-4. Give an example of message text so that the model matches the style and type
-nice text generated;
-5. You can poke and tweak parameters like temperature, max_tokens, or top_p to influence the output style, length, or variety of generated text.
+1. Clear and specific <bold>requirements and tips</bold>. It is advisable to describe what follows from the model without grammatical errors. Include relevant details, context, or specific instructions for operating the model. For example, do not use different emotions separately, clearly and indicate the parameters of the house that should be in the text, etc.;
+2. The <bold>structure and format</bold> of the generated text, which may indicate the order of verification information;
+3. The <bold>emotional state</bold> of the text, which can be indicated, should be pragmatic, and cheerful;
+4. Give an <bold>example of the text</bold> so that the model matches the style and type to get
+nicely generated text;
+5. You can <bold>poke and tweak parameters</bold> like temperature, max_tokens, or top_p to influence the output style, length, or variety of generated text.
 
 Common parameters to fine-tune:
 - Temperature. Lower temperatures produce more conservative and safer reactions. Higher temperatures produce more varied and creative results;
