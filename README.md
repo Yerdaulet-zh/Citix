@@ -48,9 +48,9 @@ nicely generated text;
 5. You can <bold>__poke and tweak parameters__</bold> like temperature, max_tokens, or top_p to influence the output style, length, or variety of generated text.
 
 Common parameters to fine-tune:
-- Temperature. Lower temperatures produce more conservative and safer reactions. Higher temperatures produce more varied and creative results;
-- Maximum number of tokens: affects the length of the generated text. Lower values produce shorter responses, and higher values produce longer responses;
-- Top-p: Affects the variety and range of options the model has when generating text. Lower values make the model more conservative, while higher values make it more diverse.
+1. Temperature. Lower temperatures produce more conservative and safer reactions. Higher temperatures produce more varied and creative results;
+2. Maximum number of tokens: affects the length of the generated text. Lower values produce shorter responses, and higher values produce longer responses;
+3. Top-p: Affects the variety and range of options the model has when generating text. Lower values make the model more conservative, while higher values make it more diverse.
 
 
 
@@ -67,8 +67,8 @@ It is very important to understand and follow the trend (this does not need to b
 
 
 #### Evaluation criteria:
-- Working code, only needing .env file addition for evaluation;
-- Code clarity and readability;
-- Quality of generated ad descriptions.
+1. Working code, only needing .env file addition for evaluation;
+2. Code clarity and readability;
+3. Quality of generated ad descriptions.
 
 
