@@ -7,7 +7,7 @@
 
 
 ### Answers to the questions
-- How to imitate the style of successful Instagram posts?
+##### How to imitate the style of successful Instagram posts?
 
 Firstly, what is success?
 Success is my understanding in the case of an Instagram account based on real estate. This constantly live, active audience contributes to the growth of coverage of likes, comments, and sharing.
@@ -37,8 +37,8 @@ The Caption usually should not be large, if the whole essence is superimposed in
 
 
 
-- What operational design techniques can improve quality?
-- How to ensure that the model does not invent additional functions?
+##### What operational design techniques can improve quality?
+##### How to ensure that the model does not invent additional functions?
 
 1. Clear and specific requirements and tips. It is advisable to describe what follows from the model without grammatical errors. Include relevant details, context, or specific instructions for operating the model. For example, do not use different emotions separately, clearly and indicate the parameters of the house that should be in the text, etc.;
 2. The structure and format of the generated text, which may indicate the order of verification information;
@@ -54,7 +54,7 @@ Common parameters to fine-tune:
 
 
 
-Thoughts on using DALL-E for an Instagram real estate account
+##### Thoughts on using DALL-E for an Instagram real estate account
 
 Generating images for Instagram content is a great idea because it arouses the interest of those watching, sometimes this creates an incentive to leave a comment, like, or even share with loved ones, which contributes to the large reach of the account and post.
 
