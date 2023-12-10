@@ -30,9 +30,11 @@ It seems to me that the caption should be as informative as possible, indicating
 
 Sometimes some data can turn off the attractiveness of customers, which leads to a decrease in interest, and most importantly, their changes can influence the decisions of potential buyers, so you don’t have to indicate what to avoid, or you can write pragmatically what plus we can get in return.
 
-The advantages that the AI indicated do not always suit the lifestyle of local people, and the weather may not be suitable, so it is worth paying attention to this.
+The advantages (plus) that the AI indicated do not always suit the lifestyle of local people, and the weather may not be suitable, so it is worth paying attention to this.
 
 The Caption usually should not be large, if the whole essence is superimposed in the video (meaning storytelling, emotions, comments), there is no need to present it to people in writing again, it is better to have factual data after the first paragraph (optional).
+
+In my solution, if some parameters (like parking, main road, etc) in the dataset are no, then they won't be included in the prompt, cuz the model can be pragmatic and may indicate some advantages, but they are not always suitable. 
 
 
 
@@ -54,7 +56,7 @@ Common parameters to fine-tune:
 
 In my script:
 1. Temperature is 0.7;
-2. Maximum number of tokens: utill stop token occurs;
+2. Maximum number of tokens: until stop token occurs;
 3. Top-p is 0.7.
 
 
