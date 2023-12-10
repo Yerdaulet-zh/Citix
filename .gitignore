@@ -7,6 +7,6 @@ __pycache__/
 # Files
 .env
 *.ipynb
-config.py
+# config.py
 Asynco.py
 file.txt
