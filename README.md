@@ -52,6 +52,10 @@ Common parameters to fine-tune:
 2. Maximum number of tokens: affects the length of the generated text. Lower values produce shorter responses, and higher values produce longer responses;
 3. Top-p: Affects the variety and range of options the model has when generating text. Lower values make the model more conservative, while higher values make it more diverse.
 
+In my script:
+1. Temperature is 0.7;
+2. Maximum number of tokens: utill stop token occurs;
+3. Top-p is 0.7.
 
 
 ##### Thoughts on using DALL-E for an Instagram real estate account
@@ -60,7 +64,7 @@ Generating images for Instagram content is a great idea because it arouses the i
 
 In general, we cannot blindly submit a certain prompt and wait for the “desired” result; of course, we will need to change some parts of the generated image, add some objects, and try to regenerate according to the prompt.
 
-I decided to write certain pre-prepared routines for holidays, so that when the script is launched, asynchronously sends requests to the server, and saves the resulting images in a folder called “generated”, this folder is automatically created if the node does not have one.
+I decided to write certain pre-prepared routines for holidays and one prompt related to the modern house, so that when the script is launched, asynchronously sends requests to the server, and saves the resulting images in a folder called “generated” This folder is automatically created if the node does not have one.
 
 It is very important to understand and follow the trend (this does not need to be observed in all cases, but mostly yes).
 
